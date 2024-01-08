@@ -1,0 +1,111 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: block;
+}
+.content{
+    text-align: center;
+    padding: 50px;
+    width: 60%;
+    margin: auto;
+    font-size: 20px;
+}
+#head {
+    background-color: #E2DFDF;
+    color: #333333;
+    height: ;
+}
+#head > h1{
+    text-align: center;
+    font-size: 60px;;
+    padding-top: 50px;
+
+}
+#head > h2{
+    text-align: center;
+    font-size: 24px;
+    padding-bottom:120px ;
+    padding-top: 15px;
+}
+.photo{
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    margin-top: -100px;
+    margin-left: 45%;
+    border: 10px solid #FFFFFF;
+}
+
+.social{
+    height: 40px;
+    width: 40px;
+}
+.social-icons {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    padding-bottom: 80px;
+
+  }
+  .social-icons li {
+    display: inline-block;
+  margin: 0 10px;
+
+  }
+  .social-container {
+    text-align: center;
+  }
+  .service{
+    text-align: center;
+    padding-top: 60px; ;
+    background-color: #DDEDFF;
+  }
+  .service > h1 {
+    padding-bottom:60px ;
+
+  }
+  .btn{
+    border-radius: 10%;
+    color: white;
+    background-color: #1E90FF;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    margin-bottom: 60px  ;
+  }
+  .aboutme {
+text-align: center;
+background-color:#FAEBD7;
+ }
+
+ .aboutme h1 {
+padding-top: 60px;
+padding-bottom: 60px;
+ }
+
+ .aboutme img {
+    width: 15%;
+    height: 15%;
+    border-radius: 15px;
+ }
+ .btn2{
+    border-radius: 10%;
+    color: white;
+    background-color: #333333;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    margin-bottom: 60px;
+  }
+  footer{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+  }
